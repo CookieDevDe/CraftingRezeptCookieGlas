@@ -1,0 +1,6 @@
+name: Craftingrezepte
+version: ${project.version}
+main: de.obvcookie.craftingrezepte.Craftingrezepte
+api-version: 1.16
+authors: [ ObvCookie ]
+description: Crafting Recipes for a Cookie Glass and a Emerald Pickaxe
